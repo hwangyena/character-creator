@@ -6,3 +6,7 @@
   text-align: center;
 }
 
+/* MEMO: white 색상 지정보다는 아래가 확장성이 좋다!! */
+.footer > a {
+  color: inherit;
+}
